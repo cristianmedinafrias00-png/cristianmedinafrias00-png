@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Cristian 👋
 
-<!--
-**cristianmedinafrias00-png/cristianmedinafrias00-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub 🚀
 
-Here are some ideas to get you started:
+## 🙋‍♂️ Sobre mí
+- 🎓 Estudio **SMR** (Sistemas Microinformáticos y Redes)
+- 💻 Me interesa el hardware, las redes y montar PCs
+- 🔧 Me gusta desmontar y montar cosas para ver cómo funcionan
+- 🎮 Me encantan los videojuegos
+- 🎧 Escucho música mientras trabajo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Lo que estoy aprendiendo
+- 🌐 Redes y servidores (DHCP, DNS)
+- 🐧 Linux y Windows Server
+- 📜 Scripts en Bash y Batch
+- 🌍 HTML, CSS y WordPress
